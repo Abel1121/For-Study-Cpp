@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/about_study.dir/main.cpp.o  -o about_study.exe -Wl,--out-implib,libabout_study.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

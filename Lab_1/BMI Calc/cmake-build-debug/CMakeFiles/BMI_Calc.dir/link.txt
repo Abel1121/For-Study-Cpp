@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/BMI_Calc.dir/main.cpp.o  -o BMI_Calc.exe -Wl,--out-implib,libBMI_Calc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

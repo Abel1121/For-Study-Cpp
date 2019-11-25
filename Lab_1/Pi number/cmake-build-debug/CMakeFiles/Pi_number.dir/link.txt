@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Pi_number.dir/main.cpp.o  -o Pi_number.exe -Wl,--out-implib,libPi_number.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

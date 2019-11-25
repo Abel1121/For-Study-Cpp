@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/average_speed.dir/main.cpp.o  -o average_speed.exe -Wl,--out-implib,libaverage_speed.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

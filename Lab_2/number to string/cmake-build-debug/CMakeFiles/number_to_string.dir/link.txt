@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/number_to_string.dir/main.cpp.o  -o number_to_string.exe -Wl,--out-implib,libnumber_to_string.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

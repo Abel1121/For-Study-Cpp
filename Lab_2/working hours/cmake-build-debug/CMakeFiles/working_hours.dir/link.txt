@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/working_hours.dir/main.cpp.o  -o working_hours.exe -Wl,--out-implib,libworking_hours.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

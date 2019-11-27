@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/hotel_booking_cost.dir/main.cpp.o  -o hotel_booking_cost.exe -Wl,--out-implib,libhotel_booking_cost.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

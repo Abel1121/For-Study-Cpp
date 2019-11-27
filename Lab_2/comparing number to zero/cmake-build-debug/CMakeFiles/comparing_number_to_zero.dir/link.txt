@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/comparing_number_to_zero.dir/main.cpp.o  -o comparing_number_to_zero.exe -Wl,--out-implib,libcomparing_number_to_zero.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

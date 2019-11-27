@@ -1,0 +1,3 @@
+/cygdrive/c/dev/C++ study/Lab_2/Comparison of free numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/dev/C++ study/Lab_2/Comparison of free numbers/cmake-build-debug/CMakeFiles/Comparison_of_free_numbers.dir
+/cygdrive/c/dev/C++ study/Lab_2/Comparison of free numbers/cmake-build-debug/CMakeFiles/edit_cache.dir

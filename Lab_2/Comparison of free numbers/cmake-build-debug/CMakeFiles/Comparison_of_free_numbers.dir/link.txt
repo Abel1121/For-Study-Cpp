@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Comparison_of_free_numbers.dir/main.cpp.o  -o Comparison_of_free_numbers.exe -Wl,--out-implib,libComparison_of_free_numbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

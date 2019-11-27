@@ -1,0 +1,3 @@
+/cygdrive/c/dev/C++ study/Lab_2/Simple Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/dev/C++ study/Lab_2/Simple Calculator/cmake-build-debug/CMakeFiles/Simple_Calculator.dir
+/cygdrive/c/dev/C++ study/Lab_2/Simple Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir

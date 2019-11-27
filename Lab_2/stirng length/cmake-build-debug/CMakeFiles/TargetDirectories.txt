@@ -1,0 +1,3 @@
+/cygdrive/c/dev/C++ study/Lab_2/stirng length/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/dev/C++ study/Lab_2/stirng length/cmake-build-debug/CMakeFiles/stirng_length.dir
+/cygdrive/c/dev/C++ study/Lab_2/stirng length/cmake-build-debug/CMakeFiles/edit_cache.dir

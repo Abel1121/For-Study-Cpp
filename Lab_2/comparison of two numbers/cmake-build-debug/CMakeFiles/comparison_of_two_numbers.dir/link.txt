@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/comparison_of_two_numbers.dir/main.cpp.o  -o comparison_of_two_numbers.exe -Wl,--out-implib,libcomparison_of_two_numbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

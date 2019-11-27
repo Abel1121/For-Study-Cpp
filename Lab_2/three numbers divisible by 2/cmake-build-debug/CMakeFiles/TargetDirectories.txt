@@ -1,0 +1,3 @@
+/cygdrive/c/dev/C++ study/Lab_2/three numbers divisible by 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/dev/C++ study/Lab_2/three numbers divisible by 2/cmake-build-debug/CMakeFiles/three_numbers_divisible_by_2.dir
+/cygdrive/c/dev/C++ study/Lab_2/three numbers divisible by 2/cmake-build-debug/CMakeFiles/edit_cache.dir

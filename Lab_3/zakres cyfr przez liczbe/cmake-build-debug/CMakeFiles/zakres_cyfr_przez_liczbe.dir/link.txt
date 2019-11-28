@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/zakres_cyfr_przez_liczbe.dir/main.cpp.o  -o zakres_cyfr_przez_liczbe.exe -Wl,--out-implib,libzakres_cyfr_przez_liczbe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

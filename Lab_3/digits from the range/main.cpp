@@ -13,7 +13,12 @@ int main() {
     for (numberStart; numberStart <= numberEnd; numberStart++)
     {
         if(numberStart%2==0)
-            cout << numberStart << " ";
+            cout << "Parzyste: " << numberStart << " ";
+        else
+        {
+            cout << "Nieparzyste: " << numberStart << " ";
+        }
     }
+
     return 0;
 }

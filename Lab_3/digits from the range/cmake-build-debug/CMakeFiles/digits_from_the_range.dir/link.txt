@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/digits_from_the_range.dir/main.cpp.o  -o digits_from_the_range.exe -Wl,--out-implib,libdigits_from_the_range.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

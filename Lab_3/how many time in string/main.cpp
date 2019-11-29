@@ -10,13 +10,15 @@ int main() {
     getline(cin,text);
     cout << "Czego mam szukać? " << endl;
     cin >> a;
+    cout << "Znak " << a << " jest na pozycji: ";
     for (int i = 0; i < text.length(); i++)
     {
         if(text.at(i)==a)
         {
             howmany += 1;
+            cout << i + 1 << " ";
         }
     }
-    cout << "W słowie: " << text << " znak " << a << " występuje " << howmany << " razy.";
+    // cout << "W słowie: " << text << " znak " << a << " występuje " << howmany << " razy.";
     return 0;
 }

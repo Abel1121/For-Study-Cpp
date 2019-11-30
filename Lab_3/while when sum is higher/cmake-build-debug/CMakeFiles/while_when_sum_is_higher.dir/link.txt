@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/while_when_sum_is_higher.dir/main.cpp.o  -o while_when_sum_is_higher.exe -Wl,--out-implib,libwhile_when_sum_is_higher.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,3 @@
+/cygdrive/c/dev/C++ study/Lab_3/while minus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/dev/C++ study/Lab_3/while minus/cmake-build-debug/CMakeFiles/while_minus.dir
+/cygdrive/c/dev/C++ study/Lab_3/while minus/cmake-build-debug/CMakeFiles/edit_cache.dir

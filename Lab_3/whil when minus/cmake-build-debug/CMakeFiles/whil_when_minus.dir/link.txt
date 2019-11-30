@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/whil_when_minus.dir/main.cpp.o  -o whil_when_minus.exe -Wl,--out-implib,libwhil_when_minus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

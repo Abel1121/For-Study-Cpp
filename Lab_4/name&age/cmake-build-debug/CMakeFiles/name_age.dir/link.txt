@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/name_age.dir/main.cpp.o  -o name_age.exe -Wl,--out-implib,libname_age.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
